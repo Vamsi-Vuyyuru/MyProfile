@@ -1,13 +1,14 @@
                                                    Vamsi Krishna Kumar Vuyyuru
 ## Vamsi Krishna Kumar Vuyyuru 
----
 #####  vuyyuruvamcy@gmail.com | +91 9959758453 | www.linkedin.com/in/vamsi-vuyyuru
 
 
 ---
 ### SUMMARY:
 Ambitious Senior Executive with 4 years of experience in Manufacturing and Supply Chain Management Industry. Skilled in Integration, Visualization and Maintenance of MES Systems. And, a Data Science practitioner.
---------------------------------------------------------------
+
+
+---
 ### EXPERIENCE:
 ##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	        	 			_July 2019-Present_
 ######_Senior Executive_
@@ -51,17 +52,21 @@ _Application Development Analyst_
 | Production Loss  |InfinityQS|
 |  NearMiss |OSI PI(Basics) |
 
-------------
+
+---
 ### ADDITIONAL SKILLSET:
 - **Exploratory Data Analysis:** Graphical representation and analysis of various Datasets.
 - ** GitHub Visualization:** Visualization of log data and analysis of data over time.
--------------
+
+
+---
 ### ACADEMIC QUALIFICATION:
 |  College  | Course | Specialization |Year  | Percentage  |
 | :------------ | :------------: | :------------: | :------------: | :------------: |
 |  Lakireddy Bali Reddy College of Eng., Mylavaram | B.Tech. | Electrical & Electronics |2015  | 74.2%  |
 | NRI Academy, Vijayawada | Intermediate | MPC |2011  | 86.4%  |
 | Sri Srinivasa Aksharalayam, Vuyyuru | SSC | - |2009  | 83.3%  |
+
 
 ---
 ### AWARDS\ACHEIVEMENTS:
@@ -70,7 +75,7 @@ _Application Development Analyst_
 - Received Appreciation for 0 RFC rejection and presentation on MES Process Management.
 - Received client appreciation for troubleshooting critical production system issues being offshore.
 
-
+---
 ### OTHER ACTIVITIES:
 - Published ‘Future of Data Science’ in company’s Newsletter.
 - Member of Make A Difference.
