@@ -10,7 +10,7 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 
 ---
 ### EXPERIENCE:
-##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	        	 			_July 2019-Present_
+##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	                                  	 			_July 2019-Present_
 ###### _Senior Executive_
 - Implementing Online Factory Solutions (OFS) for Production Plants all over the world.
 - Conducting Service Committee meetings with Business to measure the efficiency of OFS and to concentrate on enhancement of existing systems.
@@ -30,8 +30,8 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 | Failure Tag |
 
 
-##### ACCENTURE SOLUTIONS Pvt. Ltd.   	    	        	                                                    					 _March 2016-July 2019_
-_Application Development Analyst_
+##### ACCENTURE SOLUTIONS Pvt. Ltd.   	    	                                        					 _March 2016-July 2019_
+###### _Application Development Analyst_
 ##### Project: Merck & Co.
 - Provided software solutions for Manufacturing (MES-Quality) and Supply Chain Management Systems in Pharmaceutical Industry.
 - Deployed Application Engines in WonderWare IDE, which interim triggers Data Accessing Objects for Collecting the Data points from OPC Systems like Comport, KepWare.
