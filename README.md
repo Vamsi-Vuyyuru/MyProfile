@@ -11,7 +11,7 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 ---
 ### EXPERIENCE:
 ##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	        	 			_July 2019-Present_
-######_Senior Executive_
+###### _Senior Executive_
 - Implementing Online Factory Solutions (OFS) for Production Plants all over the world.
 - Conducting Service Committee meetings with Business to measure the efficiency of OFS and to concentrate on enhancement of existing systems.
 - Improved efficiency of Plant Data Collection System in the factory floor by introducing increased customer responsiveness. 
@@ -21,7 +21,7 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 - Introduced and Trained plant users to shift from ledger system (pen and paper) to E-System (OFS). 
 
 |Online Factory Solutions is a collection of below tools, built on SAP:|
-| ------------                                      |
+| :------------:                                      |
 |  Production Plan Change Request  |
 | Shiftbook |
 | Production Loss  |
@@ -46,7 +46,7 @@ _Application Development Analyst_
 - Skills involved are as below:
 
 | Languages |  MES Suites| Databases | Reporting Tools |
-| ----------- |-------------|-------------|-------------------|
+| :-----------: |:-------------:|-:------------:|:---:|
 | .Net   |  Wonderware | MS SQL | Tableau(Basics) |
 | Shiftbook | AspenTech|
 | Production Loss  |InfinityQS|
