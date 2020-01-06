@@ -1,4 +1,3 @@
-                                                   Vamsi Krishna Kumar Vuyyuru
 ## Vamsi Krishna Kumar Vuyyuru 
 #####  vuyyuruvamcy@gmail.com | +91 9959758453 | www.linkedin.com/in/vamsi-vuyyuru
 
@@ -46,7 +45,7 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 - Skills involved are as below:
 
 | Languages |  MES Suites| Databases | Reporting Tools |
-| :-----------: |:-------------:|-:------------:|:--------:|
+| :-----------: |:-------------:|:------------:|:--------:|
 | .Net   |  Wonderware | MS SQL | Tableau(Basics) |
 | Shiftbook | AspenTech|
 | Production Loss  |InfinityQS|
