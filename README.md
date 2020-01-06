@@ -52,7 +52,6 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 | Production Loss  |InfinityQS|
 |  NearMiss |OSI PI(Basics) |
 
-
 ---
 ### ADDITIONAL SKILLSET:
 - **Exploratory Data Analysis:** Graphical representation and analysis of various Datasets.
