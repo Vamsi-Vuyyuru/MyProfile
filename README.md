@@ -54,11 +54,11 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 ---
 ### ADDITIONAL SKILLSET:
 - **Exploratory Data Analysis:** Graphical representation and analysis of various Datasets.
-- ** GitHub Visualization:** Visualization of log data and analysis of data over time.
+- **GitHub Visualization:** Visualization of log data and analysis of data over time.
 
 
 ---
-### ACADEMIC QUALIFICATION:
+### ACADEMIC QUALIFICATIONS:
 |  College  | Course | Specialization |Year  | Percentage  |
 | :------------ | :------------: | :------------: | :------------: | :------------: |
 |  Lakireddy Bali Reddy College of Eng., Mylavaram | B.Tech. | Electrical & Electronics |2015  | 74.2%  |
