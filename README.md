@@ -82,5 +82,5 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 ### OTHER ACTIVITIES:
 - Published ‘Future of Data Science’ in company’s Newsletter.
 - Member of Make A Difference.
-- 
+- Transferred MES knowledge(ISA95 and ISA88) to 4 freshers in the team.
 
