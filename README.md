@@ -53,8 +53,8 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 
 ---
 ### ADDITIONAL SKILLSET:
-- **Exploratory Data Analysis:** Graphical representation and analysis of various Datasets.
-- **GitHub Visualization:** Visualization of log data and analysis of data over time.
+- **Exploratory Data Analysis:** Graphical representation and analysis of 1000movies Dataset.
+- **Data Science Practioner:** Enhance thought process behind datascience by analysing  different datasets available on GitHub.
 
 
 ---
@@ -70,11 +70,17 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 ### AWARDS\ACHEIVEMENTS:
 - Lead the team that won Accenture Celebrate Excellence award in FY2018-19.
 - Twice Star Performer of the Month in a Team of 200+ in 2017 and 2018.
+- Brought down 58 service degradations of an MES-Quality application per year to zero.
+- Created a work flow for hassle free user access management.
 - Received Appreciation for 0 RFC rejection and presentation on MES Process Management.
+- Created scripts to check enormous functionalities of an application replacing manual efforts.
 - Received client appreciation for troubleshooting critical production system issues being offshore.
+
+
 
 ---
 ### OTHER ACTIVITIES:
 - Published ‘Future of Data Science’ in company’s Newsletter.
 - Member of Make A Difference.
+- 
 
