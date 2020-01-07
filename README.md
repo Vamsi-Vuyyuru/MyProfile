@@ -40,6 +40,7 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 - Hosted various project go-lives by maintaining sync among Global Support Teams including vendor.
 - Ensured that Change Management and Problem Management guidelines were met when handling changes in Application and RCA-CAPA documentations respectively.
 - To find, analyze and provide solutions to the issues from the system logs such that high availability of MES Infrastructure is well maintained.
+- Created scripts to check enormous functionalities of an application replacing manual monitoring efforts.
 - Developed watch-lists in object viewer for continuous monitoring of Application Engines & Data accessing Objects (including hardware and software).
 - Implemented shared folders and shared drives for application engines to pick up processing Data from different Components to Main Application Component.
 - Skills involved are as below:
@@ -73,7 +74,6 @@ Ambitious Senior Executive with 4 years of experience in Manufacturing and Suppl
 - Brought down 58 service degradations of an MES-Quality application per year to zero.
 - Created a work flow for hassle free user access management.
 - Received Appreciation for 0 RFC rejection and presentation on MES Process Management.
-- Created scripts to check enormous functionalities of an application replacing manual efforts.
 - Received client appreciation for troubleshooting critical production system issues being offshore.
 
 
