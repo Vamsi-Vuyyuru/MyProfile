@@ -1,4 +1,4 @@
-## <center>Vamsi Krishna Kumar Vuyyuru <\center>
+## Vamsi Krishna Kumar Vuyyuru
 #####  vuyyuruvamcy@gmail.com | +91 9959758453 | www.linkedin.com/in/vamsi-vuyyuru
 
 
