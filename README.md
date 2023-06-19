@@ -4,12 +4,15 @@
 
 ---
 ### SUMMARY:
-Ambitious Senior Executive with 4 years of experience in Manufacturing and Supply Chain Management Industry. Skilled in Integration, Visualization and Maintenance of MES Systems. And, a Data Science practitioner.
+Ambitious Analyst with 7 years of experience in Manufacturing and Supply Chain Management Industry. Skilled in Integration, Visualization and Maintenance of MES Systems. And, a Data Science practitioner.
 
 
 ---
 ### EXPERIENCE:
-##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	                                  	 			_July 2019-Present_
+##### STANLEY BLACK & DECKER     	                                  	 		                             	_November 2021-present_
+###### _Analyst_
+
+##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	                                  	 			_July 2019-November 2021_
 ###### _Senior Executive_
 - Implementing Online Factory Solutions (OFS) for Production Plants all over the world.
 - Conducting Service Committee meetings with Business to measure the efficiency of OFS and to concentrate on enhancement of existing systems.
