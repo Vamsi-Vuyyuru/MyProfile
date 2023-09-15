@@ -10,7 +10,7 @@ Ambitious Analyst with 7 years of experience in Manufacturing and Supply Chain M
 ---
 ### EXPERIENCE:
 ##### STANLEY BLACK & DECKER     	                                  	 		                             	_November 2021-present_
-###### _Analyst_
+###### _IT/OT Analyst_
 
 ##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	                                  	 			_July 2019-November 2021_
 ###### _Senior Executive_
