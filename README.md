@@ -26,15 +26,15 @@ Ambitious IT/OT Analyst with 7.6 years of experience in Pharma, Manufacturing, E
 | :------------:                                      | :------:|
 | MES LiveView OEE  | Azure Cloud |
 | AVEVA OSI PI | Azure DevOps Pipeline |
-| ETQ Reliance (Quality)  | SQL |
-|  eMaint(X5) Fluke | Azure Edge IoT(Basics) | 
+| ETQ Reliance (Quality)  | Azure Edge IoT(Basics) |
+|  eMaint(X5) Fluke | SQL | 
 | DeepHow |
 |  PowerBi|
 | Plotly Dashboard |
   
 
 ##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	                                  	 			_July 2019-November 2021_
-###### _Senior Executive_
+###### _IT Business Analyst_
 - Implementing Online Factory Solutions (OFS) for Production Plants all over the world.
 - Conducting Service Committee meetings with Businesses to measure the efficiency of OFS and to concentrate on the enhancement of existing systems.
 - Improved efficiency of the Plant Data Collection System on the factory floor by introducing increased customer responsiveness. 
