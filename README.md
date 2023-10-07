@@ -4,13 +4,23 @@
 
 ---
 ### SUMMARY:
-Ambitious Analyst with 7 years of experience in Manufacturing and Supply Chain Management Industry. Skilled in Integration, Visualization and Maintenance of MES Systems. And, a Data Science practitioner.
+Ambitious IT/OT Analyst with 7.6 years of experience in Pharma, Manufacturing, Engineering Services and Supply Chain Management Industries. Skilled in Integration, Visualization and Maintenance of MES Systems. Also, a Certified Data Science and AI practitioner in MES Domain.
 
 
 ---
 ### EXPERIENCE:
 ##### STANLEY BLACK & DECKER     	                                  	 		                             	_November 2021-present_
-###### _IT/OT Analyst_
+###### _IT/OT Analyst (Data)_
+•	Developed and Deployed Azure web App for viewing Machine performance data using Python Plotly which provided easy accessibility for Supervisors during Gemba meetings.
+•	Drive sprints for roll out of Quality Document Control ETQ Applications in coordination with Business, Analysts, Global Teams, and Vendor. 
+•	Manage, Troubleshoot, and push software artifacts using Azure DevOps for in-house Applications.
+•	Customization of Work Order Forms, Manufacturing Assets, Workflow triggers, Setup scheduled maintenance through eMaint(X5) CMMS System.
+•	Responsible for building and managing simple site specific PowerBi reports to view insights from Product Inspection Quality, from multiple app. Databases.
+•	Worked with Architects on integration of on-prem database (SQL) with cloud applications(Azure).
+•	Troubleshooting tag\data issues with Kepware and Thingworx for real time OEE calculation Apps.
+•	Basic experience with Azure Edge devices for connection between PLC and cloud systems.
+•	Building use-cases on advanced technologies in MES such as, Predictive Maintenance, Machine Condition Monitoring and Failure Prediction.
+•	Conducting weekly team meetings to discuss and provide insights to peers.
 
 ##### BOSCH-SIEMENS HOUSEHOLD APPLICANCES Mfg. Pvt. Ltd.     	                                  	 			_July 2019-November 2021_
 ###### _Senior Executive_
@@ -18,7 +28,7 @@ Ambitious Analyst with 7 years of experience in Manufacturing and Supply Chain M
 - Conducting Service Committee meetings with Business to measure the efficiency of OFS and to concentrate on enhancement of existing systems.
 - Improved efficiency of Plant Data Collection System in the factory floor by introducing increased customer responsiveness. 
 - Customized and Configured 100+ PADS Visualizations for the production data display and gemba meetings in BSH factories.
-- Standardized visual templates to fulfil viewer requirements from all types of production plants.
+- Standardized visual templates to fulfill viewer requirements from all types of production plants.
 - Reduced manual efforts by implementing automation in the areas like user access management, continuous application monitoring and system backups.
 - Introduced and Trained plant users to shift from ledger system (pen and paper) to E-System (OFS). 
 
@@ -57,14 +67,16 @@ Ambitious Analyst with 7 years of experience in Manufacturing and Supply Chain M
 
 ---
 ### ADDITIONAL SKILLSET:
-- **Exploratory Data Analysis:** Graphical representation and analysis of 1000movies Dataset.
-- **Data Science Practioner:** Enhance thought process behind datascience by analysing  different datasets available on GitHub.
+•	Data Science: Python, Seaborn, Matplotlib, Numpy, Pandas, SciKit-Learn.
+•	Artificial Intelligence: TensorFlow, Keras, imageio, OpenCV.
+
 
 
 ---
 ### ACADEMIC QUALIFICATIONS:
 |  College  | Course | Specialization |Year  | Percentage  |
 | :------------ | :------------: | :------------: | :------------: | :------------: |
+|  Accredian | Post Graduate Program | Data Science & AI | 2022 |
 |  Lakireddy Bali Reddy College of Eng., Mylavaram | B.Tech. | Electrical & Electronics |2015  | 74.2%  |
 | NRI Academy, Vijayawada | Intermediate | MPC |2011  | 86.4%  |
 | Sri Srinivasa Aksharalayam, Vuyyuru | SSC | - |2009  | 83.3%  |
@@ -83,7 +95,10 @@ Ambitious Analyst with 7 years of experience in Manufacturing and Supply Chain M
 
 ---
 ### OTHER ACTIVITIES:
-- Published ‘Future of Data Science’ in company’s Newsletter.
-- Member of Make A Difference.
-- Transferred MES knowledge(ISA95 and ISA88) to 4 freshers in the team.
+•	Publishing articles such as, Future of Data Science in company’s Newsletter.
+•	Member of Make A Difference (Social Service).
+•	Transferred MES knowledge (ISA95 and ISA88) to freshers in the team.
+•	Kaggle Competitions Contributor.
+•	Building End-to-End ML Applications with EDA Analysis.
+
 
